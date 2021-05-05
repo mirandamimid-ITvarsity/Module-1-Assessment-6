@@ -1,0 +1,34 @@
+.gallery img{
+    width: 100%;
+}
+h2{
+    font-family:sans-serif;
+    color:cornflowerblue;
+}
+#menu{
+    width:100% ;
+    height:40px;
+    background-color: palevioletred;
+    padding-top: 12px;
+}
+#menu a{
+color: white;
+font-family: Helvetica, sans-serif;
+font-size: 18px;
+text-decoration: none;
+font-weight: 800;
+
+padding-left: 20px;
+padding-right: 20px;
+}
+
+#menu a:hover{
+    color:blue;
+}
+table{
+    font-family:unset ;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color:palevioletred;
+  }
